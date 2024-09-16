@@ -7,7 +7,9 @@
 <title>About page</title>
 </head>
 <body>
-	<h1>This is about page</h1>
+	<h1>Welcome to our first website of jenkins</h1>
+	<p>Our website is is Automated for build , test and Deploy</p>
+	<p>Thanking you for visiting our website</p>
 
 </body>
 </html>
