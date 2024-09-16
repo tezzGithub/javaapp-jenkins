@@ -8,7 +8,22 @@
 </head>
 <body>
 	<h1>This is service page</h1>
-	<p>In this page you can do your bussiness logic</p>
+	<form>
+		<table>
+			<tr>
+				<td>UserName:</td>
+				<td><input type="text" value="username"></td>
+			</tr>
+			<tr>
+				<td>Password:</td>
+				<td><input type="text" value="password" message="Password should be unique"></td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="login"></td>
+			</tr>
+		</table>
+
+	</form>
 
 </body>
 </html>
