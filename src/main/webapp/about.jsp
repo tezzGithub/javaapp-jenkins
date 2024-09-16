@@ -10,6 +10,8 @@
 	<h1>Welcome to our first website of jenkins</h1>
 	<p>Our website is is Automated for build , test and Deploy</p>
 	<p>Thanking you for visiting our website</p>
+	
+	<a href="index.jsp">Index page</a>
 
 </body>
 </html>

@@ -24,6 +24,7 @@
 		</table>
 
 	</form>
+	<a href="index.jsp">Index page</a>
 
 </body>
 </html>
